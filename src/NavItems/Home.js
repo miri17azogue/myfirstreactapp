@@ -15,7 +15,7 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170126-P1000299.jpg'
+            src='https://www.billboard.com/wp-content/uploads/2022/12/bts-grammys-2022-rc-b-billboard-espanol-1548.jpg?w=942&h=623&crop=1'
           />
         </div>
         <div className='rowImage'>
