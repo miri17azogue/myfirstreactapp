@@ -9,7 +9,7 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20161102-P1040350.jpg'
+            src='https://media.vogue.mx/photos/642463e448a225a36226dcf3/master/pass/sp23organic_no_logo_1080x1080_CKJ_JK_DENIM_TRKR_1_sRGB.jpg'
           />
         </div>
         <div className='rowImage'>
