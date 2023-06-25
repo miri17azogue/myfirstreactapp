@@ -24,7 +24,7 @@ function NavBar() {
                 className='nav-links'
                 onClick={handleClick}
               >
-                Home
+                ALBUMS BTS
               </NavLink>
             </li>
             <li className='nav-item'>
