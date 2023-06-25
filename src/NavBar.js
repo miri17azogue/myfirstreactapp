@@ -11,7 +11,7 @@ function NavBar() {
       <nav className='navbar'>
         <div className='nav-container'>
           <NavLink exact to='/' className='nav-logo'>
-            Miriam | My Web
+            Miriam | Bienvenidos
             <i className='fas fa-code'></i>
           </NavLink>
 
@@ -24,7 +24,7 @@ function NavBar() {
                 className='nav-links'
                 onClick={handleClick}
               >
-                Home
+                ALBUMS BTS
               </NavLink>
             </li>
             <li className='nav-item'>

@@ -9,136 +9,136 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20161102-P1040350.jpg'
+            src='https://m.media-amazon.com/images/I/51N4x-kmE8L._SL500_.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170126-P1000299.jpg'
+            src='https://upload.wikimedia.org/wikipedia/commons/e/ea/O%21RUL8%2C2_Logo.svg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170722-_1100175.jpg'
+            src='https://imgmedia.larepublica.pe/640x377/larepublica/original/2022/05/06/6275aed2a3df7610fa4c9f9e.webp'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170722-_1100265.jpg'
+            src='https://urishop.cl/cdn/shop/products/SKOOLLUVAFFAIRCOVER_1500x.jpg?v=1658420394'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170805-_1100655.jpg'
+            src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0WC4gd2UyZStceR8U5Ojyo7V7c95rrkQfULzOvKfkIDCsuWQ2s9_K1lLsQXCt_XIyRTY&usqp=CAU'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170828-P1100756.jpg'
+            src='https://cdn.shopify.com/s/files/1/0519/8207/4037/products/mostbeautifulpt1_1024x.jpg?v=1611226548'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20171119-_1110070-2.jpg'
+            src='https://m.media-amazon.com/images/I/31qUb3Hl2pL.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20171119-_1110112.jpg'
+            src='https://m.media-amazon.com/images/I/51FmSrPkZqL.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20171119-_1110143.jpg'
+            src='https://i.ebayimg.com/images/g/~4gAAOSw~hNfmS9I/s-l1600.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20171219-_1110676.jpg'
-          />
-        </div>
-
-        <div className='rowImage'>
-          <img
-            className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20180118-_1130419.jpg'
-          />
-        </div>
-        <div className='rowImage'>
-          <img
-            className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20180119-_1130670.jpg'
-          />
-        </div>
-        <div className='rowImage'>
-          <img
-            className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20180720-P1030318.jpg'
+            src='https://static.wikia.nocookie.net/bangtan/images/7/77/Ynwa_cover.png/revision/latest?cb=20170525224339&path-prefix=es'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1386.jpg'
+            src='https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Ly-her.jpg/220px-Ly-her.jpg'
+          />
+        </div>
+        <div className='rowImage'>
+          <img
+            className='smallImage'
+            src='https://m.media-amazon.com/images/I/71jKPVS5sOL._UF350,350_QL50_.jpg'
+          />
+        </div>
+        <div className='rowImage'>
+          <img
+            className='smallImage'
+            src='https://ibighit.com/bts/images/bts/discography/love_yourself-tear/album-cover.jpg'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1388.jpg'
+            src='https://upload.wikimedia.org/wikipedia/en/e/e2/BTS%2C_Love_Yourself_Answer%2C_album_cover.jpg'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1393.jpg'
+            src='https://upload.wikimedia.org/wikipedia/en/5/5c/BTS_-_Map_of_the_Soul_Persona.png'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1404.jpg'
+            src='https://upload.wikimedia.org/wikipedia/en/2/2c/BTS_-_BTS_World_Original_Soundtrack.png'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1514.jpg'
+            src='https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1540.jpg'
+            src='https://upload.wikimedia.org/wikipedia/commons/9/97/Dynamite_BTS_%28musical_group%29.svg'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1565.jpg'
+            src='https://img.sosanhgia.com/images/500x0/8e74a6f3eb3b41cab525f67a328d46bd/album-bts-be-deluxe-edition.jpeg'
           />
         </div>
 
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1573%201.jpg'
+            src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslYYKWUSE5ST49MBjwoU26T2TIMFs2y3H2wUgf0rd6x3ZFPKTrHk1-lzYBNYl6nOhJiQ&usqp=CAU'
+          />
+        </div>
+
+        <div className='rowImage'>
+          <img
+            className='smallImage'
+            src='https://lastfm.freetls.fastly.net/i/u/ar0/57078c22961e11fe542074aa031e2d9b.jpg'
           />
         </div>
       </div>
