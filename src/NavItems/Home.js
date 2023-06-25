@@ -21,7 +21,7 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://cdn.shopify.com/s/files/1/0589/0844/2805/products/bts-album-bts-skool-luv-affair-2nd-mini-album-32503341547701.jpg?v=1646658918'
+            src='https://imgmedia.larepublica.pe/640x377/larepublica/original/2022/05/06/6275aed2a3df7610fa4c9f9e.webp'
           />
         </div>
         <div className='rowImage'>
