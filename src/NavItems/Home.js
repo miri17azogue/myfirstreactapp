@@ -21,13 +21,13 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://static.wikia.nocookie.net/bangtan/images/d/d6/SLA_cover.jpg/revision/latest?cb=20170525224105&path-prefix=es'
+            src='https://cdn.shopify.com/s/files/1/0589/0844/2805/products/bts-album-bts-skool-luv-affair-2nd-mini-album-32503341547701.jpg?v=1646658918'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://static.wikia.nocookie.net/bighit-family/images/8/81/Skool_Luv_Affair_Special_Addition.png/revision/latest?cb=20190304181936&path-prefix=es'
+            src='https://urishop.cl/cdn/shop/products/SKOOLLUVAFFAIRCOVER_1500x.jpg?v=1658420394'
           />
         </div>
         <div className='rowImage'>
@@ -39,25 +39,25 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://static.wikia.nocookie.net/bangtan/images/8/8d/HYYH1cover.jpg/revision/latest?cb=20170525224302&path-prefix=es'
+            src='https://cdn.shopify.com/s/files/1/0519/8207/4037/products/mostbeautifulpt1_1024x.jpg?v=1611226548'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://static.wikia.nocookie.net/bangtan/images/e/ef/HYYH2_cover.jpg/revision/latest?cb=20170525224235&path-prefix=es'
+            src='https://m.media-amazon.com/images/I/31qUb3Hl2pL.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://static.wikia.nocookie.net/bangtan/images/c/c4/HYYHyf_cover.jpg/revision/latest?cb=20170525224358&path-prefix=es'
+            src='https://m.media-amazon.com/images/I/51FmSrPkZqL.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://static.wikia.nocookie.net/bangtan/images/0/02/Wings_cover.png/revision/latest?cb=20170525224418&path-prefix=es'
+            src='https://i.ebayimg.com/images/g/~4gAAOSw~hNfmS9I/s-l1600.jpg'
           />
         </div>
         <div className='rowImage'>
